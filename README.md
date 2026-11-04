@@ -1,5 +1,7 @@
 # SuperDrop
 
+> **Status: work in progress.** Nearby-device discovery works; direct file transfer is still being built.
+
 SuperDrop is a cross-platform desktop application for fast, direct file sharing between computers on the same local network. It is built with Tauri, React, TypeScript, and Rust. SuperDrop does not use cloud storage or user accounts.
 
 ![SuperDrop nearby-device discovery interface](docs/superdrop-device-discovery.png)
